@@ -5,6 +5,8 @@ import java.util.logging.Logger;
 
 /*
  * Check the following class and identify what issues it might entail.
+ * 
+ * Until the method checkServer is not complete it will return false and EmailAccount will do nothing.
  */
 public class EmailAccount {
 
